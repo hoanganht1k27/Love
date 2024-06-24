@@ -1,0 +1,9 @@
+{
+    "branches": ["master"],
+    "repositoryUrl": "https://github.com/hoanganht1k27/Love",
+    "plugins": [
+        "@semantic-release/commit-analyzer",
+        "@semantic-release/release-notes-generator",
+        "@semantic-release/github"
+    ]
+}
